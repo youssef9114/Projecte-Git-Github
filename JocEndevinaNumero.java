@@ -8,7 +8,7 @@ public class JocEndevinaNumero {
         Scanner teclat = new Scanner(System.in);
 
         int numero = random.nextInt(50) + 1;
-        System.out.println("Hola");
+        System.out.println("Benvingut al joc!");        
         System.out.print("Endevina el número (1-50): ");
         int usuari = teclat.nextInt();
 
