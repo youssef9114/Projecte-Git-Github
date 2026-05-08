@@ -9,7 +9,8 @@ public class JocEndevinaNumero {
 
         int numero = random.nextInt(50) + 1;
 
-        System.out.println("Benvingut al joc i bon dia!");
+        System.out.printl("hola bon dia");
+        System.out.printl("Benvingut al joc i bon dia!");
         System.out.print("Endevina el número (1-50): ");
         System.out.print("Soy el ilyassssss");
 
