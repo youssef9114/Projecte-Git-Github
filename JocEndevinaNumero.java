@@ -11,6 +11,7 @@ public class JocEndevinaNumero {
 
         System.out.println("Benvingut al joc i bon dia!");
         System.out.print("Endevina el número (1-50): ");
+        System.out.print("Soy el ilyassssss");
 
         int usuari = teclat.nextInt();
 
